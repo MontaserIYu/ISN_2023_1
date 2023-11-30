@@ -1,0 +1,14 @@
+{
+  "name": "ISNApp",
+  "description": "ISNApp",
+  "start_url": "/",
+  "lang": "ru-RU",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "worldwide.png",
+      "sizes": "512x512",
+      "type": "imade/png"
+    }
+  ]
+}
